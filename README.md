@@ -1,4 +1,4 @@
-# Diabetes Classification Project
+# Diabetes Prediction Project
 
 The objective of this project is to build a classifier to detect signs of diabetes or prediabetes in the given dataset. The dataset contains information from over 70,000 patients who have filled out questionnaires. The dataset consists of 22 columns, including various health-related features and target labels indicating the presence or absence of diabetes.
 
