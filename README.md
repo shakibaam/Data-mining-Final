@@ -32,7 +32,7 @@ The objective of this project is to build a classifier to detect signs of diabet
 3. Feature engineering
 
 ## Building the Classifier Model
-To build the classifier, we will be using the XGBoost library. The classifier will be trained on the dataset to predict the presence or absence of diabetes.
+To build the classifier, we will use the XGBoost library. The classifier will be trained on the dataset to predict the presence or absence of diabetes.
 
 ## Hyperparameter Tuning
 We will perform hyperparameter tuning to optimize the performance of the classifier.
